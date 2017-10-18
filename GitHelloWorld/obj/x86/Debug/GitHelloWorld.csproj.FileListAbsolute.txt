@@ -1,0 +1,4 @@
+C:\C#\GitHelloWorld\GitHelloWorld\bin\Debug\GitHelloWorld.exe
+C:\C#\GitHelloWorld\GitHelloWorld\bin\Debug\GitHelloWorld.pdb
+C:\C#\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.exe
+C:\C#\GitHelloWorld\GitHelloWorld\obj\x86\Debug\GitHelloWorld.pdb
