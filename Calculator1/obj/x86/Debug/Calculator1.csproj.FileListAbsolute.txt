@@ -1,0 +1,5 @@
+E:\新建文件夹 (2)\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+E:\新建文件夹 (2)\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+E:\新建文件夹 (2)\Calculator1\Calculator1\obj\x86\Debug\Calculator1.exe
+E:\新建文件夹 (2)\Calculator1\Calculator1\obj\x86\Debug\Calculator1.pdb
+E:\新建文件夹 (2)\Calculator1\Calculator1\obj\x86\Debug\Calculator1.csprojResolveAssemblyReference.cache
